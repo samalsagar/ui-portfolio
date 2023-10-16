@@ -1,0 +1,111 @@
+.custome-margin{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+}
+header{
+    display: grid;
+    grid-template-columns: 3fr 7fr;
+    height: 155vh;
+    grid-gap: 20px;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.col1{
+    background-color: lightgray;
+}
+.chapter-sec{
+    height: 65%;
+    margin: 10px 25px 0px 25px;
+    background-color: white;
+    color: black;
+}
+.chapter-box{ 
+    margin: 10px 0px 0px 34px;
+
+}
+.chapter-title{
+    font-size: 15px;
+}
+.chpater-details{
+    font-size: 11px;
+}
+.lang-sec{
+    height: 30px;
+    margin: 10px 25px 0px 25px;
+    background-color: white;
+    color: black;
+}
+.rating-sec{
+    height: 12%;
+    margin: 10px 25px 0px 25px;
+    background-color: white;
+    color: black;
+}
+.bi-star-fill, .bi-star{
+    color: goldenrod;
+}
+.top-header{
+    height: 130px;
+    display: grid;
+    grid-template-columns: 3fr 7fr;
+    grid-gap: 50px;
+}
+.name{
+    font-size: 25px;
+}
+.col-tophead2 p{
+    text-align: right;
+}
+.col-tophead2 div{
+    text-align: right;
+}
+.col-tophead2{
+    font-size: 12px;
+}
+
+
+/* right-part starts */
+#about-hr{
+    width: 97%;
+    margin-top: 1px;
+    /* height: 15px; */
+    border: none;
+    height: 3px;
+    background-color: blue;
+}
+.right-col-title{
+    font-size: 18px;
+}
+.right-col-subtitle{
+    font-size: 16px;
+}
+.work-exp-title{
+    font-size: 14px;
+}
+.col-text-custome{
+    margin-left: -94%;
+}
+.tech-used{
+    margin-left: 120px;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.edu-title{
+    font-size: 15px;
+}
+.edu-subtitle{
+    font-size: 13px;
+}
+.place{
+    margin-left: 38%;
+}
+.date-sign{
+    font-size: 12px;
+    margin-top: 70px;
+}
+
+
